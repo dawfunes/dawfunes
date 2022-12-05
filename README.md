@@ -1,3 +1,5 @@
+![](https://github.com/dawfunes/dawfunes/blob/main/banner_codereviews-scaled.jpg)
+
 <h1 align="center">Hi 👋, I'm David :)</h1>
 <h3 align="center">A telecommunications student from Spain</h3>
 
