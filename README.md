@@ -5,6 +5,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://acegif.com/wp-content/uploads/gifs/starfall-gif-46.gif">
 
+<h4>Stuff about me: </h4>
+
 - 🔭 I’m currently working on [the advent of code 2022](https://adventofcode.com/)
 
 - 🌱 I’m currently learning **Python and Java**
@@ -13,7 +15,7 @@
 
 - 📫 How to reach me **dfuentesmartin@gmail.com**
 
-- ⚡ Fun fact **My closest friends call me "Almond"**
+- ⚡ Fun fact **my closest friends call me "Almond"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
