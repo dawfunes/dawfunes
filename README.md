@@ -7,7 +7,7 @@
 
 <h3 align="left">Stuff about me: </h3>
 
-- 🔭 I’m currently working on [the advent of code 2022](https://adventofcode.com/)
+- 🔭 I’m currently working on [doing a bunch of Codewars problems](https://www.codewars.com/users/daw_funes) and other personal projects
 
 - 🌱 I’m currently learning **Python and Java**
 
