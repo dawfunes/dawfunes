@@ -23,7 +23,7 @@
 ### Kobotoolbox library (ongoing)
   - **Description:** A library with a bunch of methods to ease the use of the Kobotoolbox API
   - **Technologies:** Kobotoolbox API and Python.
-  - **Repository:** TBA
+  - **Repository:** [kobotoolbox_py](https://github.com/dawfunes/kobotoolbox_py)
 </p>
 
 <h3 align="left">Get In touch</h3>
