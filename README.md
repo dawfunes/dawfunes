@@ -1,7 +1,7 @@
 ![](https://github.com/dawfunes/dawfunes/blob/main/banner_gh.jpg)
 
 <h1 align="center">Hi 👋, I'm David :)</h1>
-<h3 align="center">A passopmate telecommunications student from Spain</h3>
+<h3 align="center">An engineering of telecommunications student from Spain</h3>
 
 <img align="right" alt="Coding" width="400" src="https://acegif.com/wp-content/uploads/gifs/starfall-gif-46.gif">
 
